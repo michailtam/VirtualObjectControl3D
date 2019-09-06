@@ -33,24 +33,24 @@ In this project, the interaction of a user in a virtual world gets demonstrated 
 		<th>Loook Up operation</th>
 	</tr>
 	<tr>
-		<td><img src="/images/look_up.jpg"></td>
+		<td><img src="images/look_up.jpg"></td>
 	</tr>
 	<tr>
 		<th>Yaw to the right operation</th>
 	</tr>	
 	<tr>
-		<td><img src="/images/yaw_right.jpg"></td>
+		<td><img src="images/yaw_right.jpg"></td>
 	</tr>
 	<tr>
 		<th>Move forwards operation</th>
 	</tr>	
 	<tr>
-		<td><img src="/images/move_forwards.jpg"></td>
+		<td><img src="images/move_forwards.jpg"></td>
 	</tr>
 	<tr>
 		<th>Intel RealSense 3D camera F200</th>
 	</tr>	
 	<tr>
-		<td><img src="/images/camera_prop.jpg"></td>
+		<td><img src="images/camera_prop.jpg"></td>
 	</tr>
 </table>
