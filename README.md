@@ -16,41 +16,43 @@ In this project, the interaction of a user in a virtual world gets demonstrated 
 	</tr>
 	<tr>
 		<td>Libraries</td>
-		<td>OpenGL, Qt, Intel RealSense SDK, STL</td>
+		<td>OpenGL, <a href="https://www.qt.io/developers/">Qt</a>, <a href="https://www.intelrealsense.com/developers/">Intel 
+		RealSense SDK</a>, STL</td>
 	</tr>
 	<tr>
 		<td>Development Environment</td>
-		<td>Visual Studio, Qt Creator</td>
+		<td><a href="https://visualstudio.microsoft.com/vs/community/">Visual Studio,</a> <a href="https://www.qt.io/download">Qt 
+		Creator</a></td>
 	</tr>
 	<tr>
 		<td>3D Camera</td>
-		<td>Intel RealSense F200</td>
+		<td><a href="https://downloadcenter.intel.com/product/92255/Intel-RealSense-Camera-F200">Intel RealSense F200</a></td>
 	</tr>
 </table>
 
-<table>
+<table align="center">
 	<tr>
 		<th>Loook Up operation</th>
 	</tr>
 	<tr>
-		<td><img src="./images/look_up.jpg"></td>
+		<td><img src="https://github.com/michailtam/VirtualObjectControl3D/blob/master/images/look_up.JPG" width=720></td>
 	</tr>
 	<tr>
 		<th>Yaw to the right operation</th>
 	</tr>	
 	<tr>
-		<td><img src="images/yaw_right.jpg"></td>
+		<td><img src="https://github.com/michailtam/VirtualObjectControl3D/blob/master/images/yaw_right.JPG" width=720></td>
 	</tr>
 	<tr>
 		<th>Move forwards operation</th>
 	</tr>	
 	<tr>
-		<td><img src="images/move_forwards.jpg"></td>
+		<td><img src="https://github.com/michailtam/VirtualObjectControl3D/blob/master/images/move_forwards.JPG" width=720></td>
 	</tr>
 	<tr>
 		<th>Intel RealSense 3D camera F200</th>
 	</tr>	
 	<tr>
-		<td><img src="images/camera_prop.jpg"></td>
+		<td><img src="https://github.com/michailtam/VirtualObjectControl3D/blob/master/images/camera_prop.JPG" width=400></td>
 	</tr>
 </table>
