@@ -33,7 +33,7 @@ In this project, the interaction of a user in a virtual world gets demonstrated 
 		<th>Loook Up operation</th>
 	</tr>
 	<tr>
-		<td><img src="images/look_up.jpg"></td>
+		<td><img src="./images/look_up.jpg"></td>
 	</tr>
 	<tr>
 		<th>Yaw to the right operation</th>
