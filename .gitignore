@@ -1,0 +1,22 @@
+##################### Exclude folders ######################
+/bin/
+
+################## Visual Studio 2017 Files ################
+# Folders
+/[Dd]ebug/
+/[Rr]elease/
+/[Gg]eneratedFiles/
+/[Bb]in/
+/[Rr]esources/
+/[Ww]in32/
+
+# Files
+/.vs/
+*.qrc
+*.sdf
+*.sln
+*.suo
+*.log
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user

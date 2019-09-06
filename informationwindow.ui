@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>InformationWindowUI</class>
+ <widget class="QWidget" name="InformationWindowUI">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>280</width>
+    <height>858</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>260</width>
+     <height>831</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_3" stretch="0,0,0">
+    <property name="spacing">
+     <number>3</number>
+    </property>
+    <property name="leftMargin">
+     <number>10</number>
+    </property>
+    <property name="rightMargin">
+     <number>10</number>
+    </property>
+    <item>
+     <widget class="QLabel" name="InformationWindowLabel">
+      <property name="enabled">
+       <bool>true</bool>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>0</width>
+        <height>21</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>12</pointsize>
+       </font>
+      </property>
+      <property name="styleSheet">
+       <string notr="true"/>
+      </property>
+      <property name="text">
+       <string>Information Window</string>
+      </property>
+      <property name="margin">
+       <number>0</number>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <layout class="QVBoxLayout" name="cameraLayout">
+      <item>
+       <widget class="QLabel" name="cameraInfoLabel">
+        <property name="font">
+         <font>
+          <pointsize>10</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string>Camera Information</string>
+        </property>
+        <property name="scaledContents">
+         <bool>false</bool>
+        </property>
+        <property name="wordWrap">
+         <bool>false</bool>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="deviceNameLabel">
+        <property name="text">
+         <string>Device Name</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="deviceName"/>
+      </item>
+      <item>
+       <widget class="QLabel" name="deviceModelLabel">
+        <property name="text">
+         <string>Device Model</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="deviceModel"/>
+      </item>
+      <item>
+       <widget class="QLabel" name="deviceSerialLabel">
+        <property name="text">
+         <string>Device Serial</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="deviceSerial"/>
+      </item>
+      <item>
+       <widget class="QLabel" name="deviceStreamTypeLabel">
+        <property name="text">
+         <string>Supported Stream Types</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QCheckBox" name="deviceDepthCam">
+        <property name="enabled">
+         <bool>true</bool>
+        </property>
+        <property name="text">
+         <string>IR DEPTH CAM</string>
+        </property>
+        <property name="checkable">
+         <bool>true</bool>
+        </property>
+        <property name="checked">
+         <bool>false</bool>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QCheckBox" name="deviceColorCam">
+        <property name="text">
+         <string>COLOR CAM</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QCheckBox" name="deviceLazerProjector">
+        <property name="text">
+         <string>IR LAZER PROJECTOR</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLabel" name="camActionsLabel">
+        <property name="font">
+         <font>
+          <pointsize>10</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string>Camera Actions</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QListWidget" name="cameraActionsList"/>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QVBoxLayout" name="verticalLayout_2">
+      <item>
+       <widget class="QLabel" name="userActionsLabel">
+        <property name="font">
+         <font>
+          <pointsize>10</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string>User Actions</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QListWidget" name="userActionsList"/>
+      </item>
+      <item>
+       <widget class="QCheckBox" name="stopCameraLog">
+        <property name="text">
+         <string>Log camera actions</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QCheckBox" name="stopUserLog">
+        <property name="text">
+         <string>Log user actions</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
