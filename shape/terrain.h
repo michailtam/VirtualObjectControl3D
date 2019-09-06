@@ -4,10 +4,7 @@
 /*		Description:	This class represents a terrain. 							*/	
 /*		Creation date:	28.09.2015													*/
 /*																					*/
-/*		Developer:		Michael Tamvakeras											*/
-/*		Field of study:	PLH40														*/
-/*		Associate																	*/
-/*		Professor:		PhD Anagnostopoulos Christos								*/
+/*		Developer:		Michail Tamvakeras											*/
 /*																					*/
 /************************************************************************************/
 

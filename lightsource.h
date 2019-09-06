@@ -5,10 +5,7 @@
 /*						or the sun													*/
 /*		Creation date:	10.09.2015													*/
 /*																					*/
-/*		Developer:		Michael Tamvakeras											*/
-/*		Field of study:	PLH40														*/
-/*		Associate																	*/
-/*		Professor:		PhD Anagnostopoulos Christos								*/
+/*		Developer:		Michail Tamvakeras											*/
 /*																					*/
 /************************************************************************************/
 

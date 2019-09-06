@@ -3,13 +3,9 @@
 /*		File:			renderer.h													*/
 /*		Description:	This class manages all the drawing operations		 		*/
 /*						to the OpenGL window										*/		
-/*																					*/
 /*		Creation date:	13.01.2016													*/
 /*																					*/
-/*		Developer:		Michael Tamvakeras											*/
-/*		Field of study:	PLH40														*/
-/*		Associate																	*/
-/*		Professor:		PhD Anagnostopoulos Christos								*/
+/*		Developer:		Michail Tamvakeras											*/
 /*																					*/
 /************************************************************************************/
 

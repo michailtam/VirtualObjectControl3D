@@ -5,10 +5,7 @@
 /*						(e.g. triangle, cube, ...)									*/
 /*		Creation date:	15.08.2015													*/
 /*																					*/
-/*		Developer:		Michael Tamvakeras											*/
-/*		Field of study:	PLH40														*/
-/*		Associate																	*/
-/*		Professor:		PhD Anagnostopoulos Christos								*/
+/*		Developer:		Michail Tamvakeras											*/
 /*																					*/
 /************************************************************************************/
 

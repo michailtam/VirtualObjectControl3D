@@ -6,10 +6,7 @@
 /*						(which contains the render and information window)			*/
 /*		Creation date:	12.02.2016													*/
 /*																					*/
-/*		Developer:		Michael Tamvakeras											*/
-/*		Field of study:	PLH40														*/
-/*		Associate																	*/
-/*		Professor:		PhD Anagnostopoulos Christos								*/
+/*		Developer:		Michail Tamvakeras											*/
 /*																					*/
 /************************************************************************************/
 
