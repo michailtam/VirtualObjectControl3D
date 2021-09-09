@@ -48,10 +48,7 @@ The software was developed in an OOP approach under Windows using the programmin
 ### Main modules
 In the following the main modules (classes) are depicted which are the most important part of the project. The shown class diagrams show how all classes are interconnected to each other.
 <table>
-	<th>
-		<td>Module</td>
-		<td>Diagram</td>
-	</th>
+	<th>Module</th><th>Diagram</th>
 	<tr>
 		<td>Intel RealSense Module</td>
 		<td><img src="https://github.com/michailtam/VirtualObjectControl3D/blob/master/images/intelrs_module.png" width=720></td>
