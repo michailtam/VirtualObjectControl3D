@@ -11,8 +11,8 @@ The purpose of this software is to give suggestions on how to use certain techno
 <table>
 	<tr>
 		<td>Development Environment</td>
-		<td>[Visual Studio](https://visualstudio.microsoft.com/vs/community/), [Qt Creator](https://www.qt.io/download">Qt 
-		Creator)</td>
+		<td><a href="https://visualstudio.microsoft.com/vs/community/">Visual Studio</a>, <a href="https://www.qt.io/download">Qt Creator</a> 
+		</td>
 	</tr>
 	<tr>
 		<td>Programming language</td>
@@ -20,15 +20,15 @@ The purpose of this software is to give suggestions on how to use certain techno
 	</tr>
 	<tr>
 		<td>Graphics libraries</td>
-		<td>[OpenGL](https://www.opengl.org/), [Qt](https://www.qt.io/developers)</td>
+		<td><a href="https://www.opengl.org/">OpenGL</a>, <a href="https://www.qt.io/developers">Qt</a></td>
 	</tr>
 	<tr>
 		<td>Interaction library</td>
-		<td>[Intel® RealSense](https://www.intelrealsense.com/developers)</td>
+		<td><a href="https://www.intelrealsense.com/developers">Intel® RealSense</a></td>
 	</tr>
 	<tr>
 		<td>3D Camera</td>
-		<td>[Intel RealSense F200](https://downloadcenter.intel.com/product/92255/Intel-RealSense-Camera-F200)</td>
+		<td><a href="https://downloadcenter.intel.com/product/92255/Intel-RealSense-Camera-F200">Intel RealSense F200</a></td>
 	</tr>
 </table>
 
