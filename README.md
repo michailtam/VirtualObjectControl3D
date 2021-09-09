@@ -46,7 +46,7 @@ The software was developed in an OOP approach under Windows using the programmin
 - If the camera is not connected an error message gets displayed
 
 ### Main modules
-In the following the main modules (classes) are depicted which are the most important part of the project. The shown class diagrams show how all classes are interconnected to each other.
+In the following the most important modules (classes) are depicted and how they interact each other.
 <table>
 	<th>Module</th><th>Diagram</th>
 	<tr>
@@ -62,9 +62,6 @@ In the following the main modules (classes) are depicted which are the most impo
 		<td><img src="https://github.com/michailtam/VirtualObjectControl3D/blob/master/images/all_windows.png" width=720></td>
 	</tr>
 </table>
-
-### Purpose
-The purpose of this software is to provide inspiration for developers and reasearchers on how to use certain technologies and computer science to help certain groups of people to integrate themselves into the work on the computer.
 
 ### Screenshots
 <table align="center">
@@ -93,3 +90,29 @@ The purpose of this software is to provide inspiration for developers and reasea
 		<td><img src="https://github.com/michailtam/VirtualObjectControl3D/blob/master/images/camera_prop.jpg" width=400></td>
 	</tr>
 </table>
+
+### Class diagrams
+<table align="center">
+	<tr>
+		<th>Rendering classes</th>
+	</tr>
+	<tr>
+		<td><img src="https://github.com/michailtam/VirtualObjectControl3D/blob/master/images/rendering-class-diagram.png" width=720></td>
+	</tr>
+	<tr>
+		<th>Face tracking (head movement) classes</th>
+	</tr>
+	<tr>
+		<td><img src="https://github.com/michailtam/VirtualObjectControl3D/blob/master/images/face-tracking-classes.png" width=720></td>
+	</tr>
+	<tr>
+		<th>GUI classes</th>
+	</tr>
+	<tr>
+		<td><img src="https://github.com/michailtam/VirtualObjectControl3D/blob/master/images/gui-classes.png" width=720></td>
+	</tr>
+</table>
+
+
+### Purpose of the project
+The purpose of this software is to provide inspiration for developers and reasearchers on how to use certain technologies and computer science to help certain groups of people to integrate themselves into the work on the computer.
