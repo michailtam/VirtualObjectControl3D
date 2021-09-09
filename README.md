@@ -50,16 +50,16 @@ In the following the main modules (classes) are depicted which are the most impo
 <table>
 	<th>Module</th><th>Diagram</th>
 	<tr>
+		<td>Module interactions</td>
+		<td><img src="https://github.com/michailtam/VirtualObjectControl3D/blob/master/images/irs_opengl.png" width=620></td>
+	</tr>
+	<tr>
 		<td>Intel RealSense Module</td>
 		<td><img src="https://github.com/michailtam/VirtualObjectControl3D/blob/master/images/intelrs_module.png" width=720></td>
 	</tr>
 	<tr>
 		<td>Window embeddings</td>
 		<td><img src="https://github.com/michailtam/VirtualObjectControl3D/blob/master/images/all_windows.png" width=720></td>
-	</tr>
-	<tr>
-		<td>Window embeddings</td>
-		<td><img src="https://github.com/michailtam/VirtualObjectControl3D/blob/master/images/irs_opengl.png" width=720></td>
 	</tr>
 </table>
 
