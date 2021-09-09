@@ -51,7 +51,7 @@ In the following the main modules (classes) are depicted which are the most impo
 	<th>Module</th><th>Diagram</th>
 	<tr>
 		<td>Module interactions</td>
-		<td><img src="https://github.com/michailtam/VirtualObjectControl3D/blob/master/images/irs_opengl.png" width=620></td>
+		<td><img src="https://github.com/michailtam/VirtualObjectControl3D/blob/master/images/irs_opengl.png" width=520></td>
 	</tr>
 	<tr>
 		<td>Intel RealSense Module</td>
